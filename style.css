@@ -89,6 +89,7 @@ section.donate {
     width: 70%;
     margin: auto;
     margin-top: 4%;
+    margin-bottom: 4%;
 }
 
 .amount-100 {
@@ -150,4 +151,21 @@ section.donate {
     font-size: 35px;
     text-transform: uppercase;
     font-weight: bold;
+}
+
+hr {
+    width: 70%;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.donat-link {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    background: tomato;
+    padding: 10px 18px;
+    border-radius: 5px;
+    text-transform: capitalize;
 }
