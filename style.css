@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.header {
+    background-image: url("img/donation13.jpg");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.header-bg {
+    background-color: rgba(0, 0, 0, 0.404);
+}
+
+.header-content {
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    height: 100vh;
+}
+
+.header-content-wraper h1 {
+    font-size: 55px;
+    color: white;
+    margin-bottom: 2%;
+}
+
+.header-content-wraper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header-content-wraper p {
+    color: white;
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 5%;
+}
+
+.header-content-wraper a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    background: tomato;
+    padding: 10px 18px;
+    border-radius: 5px;
+}
