@@ -204,19 +204,25 @@ section.donate-plan {
 
 .donate-plan-1 {
     width: 31.3%;
-    background: #ececec;
+    background: #ecf9ff;
     margin-right: 2%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 19px #cfc9c9;
 }
 
 .donate-plan-2 {
     width: 31.3%;
-    background: #f3f2cc;
+    background: rgb(243 240 115);
+    border-radius: 10px;
+    box-shadow: 0px 0px 12px #999999;
 }
 
 .donate-plan-3 {
     width: 31.3%;
-    background: #ececec;
+    background: #ecf9ff;
     margin-left: 2%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 19px #cfc9c9;
 }
 
 .donate-plan-wraper {
@@ -306,6 +312,14 @@ section.bonus-point {
 .mashrafe-mortaza-about {
     width: 45%;
     margin-left: 5%;
+    position: relative;
+}
+
+.mashrafe-mortaza-center {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
 }
 
 .mashrafe-mortaza-img img {
