@@ -237,6 +237,63 @@ section.donate-plan {
 
 /*donate-plan section is end here*/
 
+/*bonus point section is star here*/
+section.bonus-point {
+    width: 85%;
+    margin: auto;
+    margin-bottom: 5%;
+    padding: 5% 0%;
+}
+
+.sakib-all-hassan {
+    display: flex;
+}
+
+.about-sakib {
+    width: 45%;
+    margin-right: 5%;
+    position: relative;
+}
+
+.sakib-img {
+    width: 45%;
+    margin-left: 5%;
+}
+
+.sakib-img img {
+    width: 80%;
+    border-radius: 4%;
+}
+
+.about-sakib h1 {
+    font-size: 50px;
+}
+
+.about-sakib p {
+    font-size: 20px;
+    margin-top: 4%;
+    line-height: 1.5;
+    color: #504b4b;
+    padding-bottom: 4%;
+}
+
+.about-sakib a {
+    font-size: 20px;
+    text-decoration: none;
+    background: #df5037;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: snow;
+}
+
+.about-sakib-center {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translateY(-50%);
+}
+
+/*bonus point section is end here*/
 
 /*section updated is start here*/
 .updated {
