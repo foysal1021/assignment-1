@@ -238,11 +238,66 @@ section.donate-plan {
 /*donate-plan section is end here*/
 
 
+/*section updated is start here*/
+.updated {
+    width: 85%;
+    margin: auto;
+}
+
+.updated-content {
+    text-align: center;
+}
+
+.updated-content h1 {
+    font-size: 45px;
+    padding-bottom: 2%;
+}
+
+.updated-content p {
+    width: 47%;
+    font-size: 20px;
+    color: #424141;
+    line-height: 1.5;
+    margin: auto;
+}
+
+input.email {
+    width: 30%;
+    padding: 0.5% 1%;
+    border: none;
+    background: #ffffff;
+    box-shadow: 0px 0px 3px;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+input.Subscribe {
+    width: 10%;
+    padding: 0.5% 1%;
+    font-size: 20px;
+    border: none;
+    box-shadow: 0px 0px 5px;
+    border-radius: 3px;
+    text-align: center;
+    background: tomato;
+    color: white;
+    margin-left: -12%;
+}
+
+.updated-form {
+    margin-top: 3%;
+}
+
+
+/*section updated is end here*/
+
+
 /*footer section is start here*/
 section.footer {
     width: 100%;
     background: #121010;
     padding: 5% 0%;
+    margin-top: 5%;
 }
 
 .footer-content {
@@ -259,3 +314,10 @@ section.footer {
     letter-spacing: 3px;
     color: tomato;
 }
+
+.footer-content p {
+    font-size: 22px;
+    color: #a9a8a8;
+}
+
+/*footer section is end here*/
