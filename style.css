@@ -293,6 +293,46 @@ section.bonus-point {
     transform: translateY(-50%);
 }
 
+.mashrafe-mortaza {
+    display: flex;
+    padding-top: 8%;
+}
+
+.mashrafe-mortaza-img {
+    width: 45%;
+    margin-right: 5%;
+}
+
+.mashrafe-mortaza-about {
+    width: 45%;
+    margin-left: 5%;
+}
+
+.mashrafe-mortaza-img img {
+    width: 85%;
+    border-radius: 4%;
+}
+
+.mashrafe-mortaza-center h1 {
+    font-size: 50px;
+}
+
+.mashrafe-mortaza-center p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #4a4848;
+    padding: 4% 0%;
+}
+
+.mashrafe-mortaza-center a {
+    font-size: 20px;
+    text-decoration: none;
+    background: #df5037;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: snow;
+}
+
 /*bonus point section is end here*/
 
 /*section updated is start here*/
